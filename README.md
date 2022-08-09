@@ -12,3 +12,7 @@ About android security ,android pentesting ,android reverse.  关于安卓渗透
 
 + [1.3 安卓抓包之绕过SSL Pinning](  01-安卓抓包/安卓抓包之绕过sslpinning.md  )
 
+## 02 安卓软件保护技术
+
++ [2.1 安卓反编译和重打包]( 02-安卓软件保护技术/20220809-Android渗透05-安卓反编译.md  )
+
