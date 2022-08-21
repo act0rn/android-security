@@ -16,3 +16,13 @@ About android security ,android pentesting ,android reverse.  关于安卓渗透
 
 + [2.1 安卓反编译和重打包]( 02-安卓软件保护技术/20220809-Android渗透05-安卓反编译.md  )
 
++ [2.2 软件保护之代码混淆](  02-安卓软件保护技术/20220810-Android渗透06-软件保护之代码混淆.md   )
+
+## 03 安卓CTF 系列
+
++ [3.1 安卓CTF系列-案例1]( 03-安卓CTF系列/20220814-Android渗透07-安卓CTF系列-案例1.md)
++ [3.2 安卓CTF系列-案例2]( 03-安卓CTF系列/20220815-Android渗透08-安卓CTF系列-案例2.md )
++ [3.3 安卓CTF系列-案例3]( 03-安卓CTF系列/20220815-Android渗透09-安卓CTF系列-案例3.md )
++ [3.4 安卓CTF系列-案例4]( 03-安卓CTF系列/20220815-Android渗透10-安卓CTF系列-案例4.md )
++ [3.5 AS与Jeb动态调试Apk]( 03-安卓CTF系列/20220816-Android渗透11-AS与Jeb动态调试Apk.md )
++ [3.6 IDA动态调试so](  03-安卓CTF系列/20220816-Android渗透12-IDA动态调试so.md )
