@@ -38,7 +38,7 @@ SSL Pinning 具体的实现的代码，可以查看：https://github.com/act0rn/
 
 ![1660011866888](安卓抓包之绕过sslpinning.assets/1660011866888.png)
 
-##0x03 如何绕过 SSL Pinning？
+## 0x03 如何绕过 SSL Pinning？
 
 此时，我们打开测试的App，然后点击后面三个按钮（04、05、06按钮），并使用抓包工具（例如Charles ）进行抓包，发现抓包失败，提示信息如下：
 
